@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\notfu\\source\\repos\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F0F665-A417-49D1-AC0D-BB671B81A02B}|WpfApp2\\WpfApp2.csproj|c:\\users\\notfu\\source\\repos\\wpfapp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4F0F665-A417-49D1-AC0D-BB671B81A02B}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F0F665-A417-49D1-AC0D-BB671B81A02B}|WpfApp2\\WpfApp2.csproj|c:\\users\\notfu\\source\\repos\\wpfapp2\\wpfapp2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F0F665-A417-49D1-AC0D-BB671B81A02B}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F0F665-A417-49D1-AC0D-BB671B81A02B}|WpfApp2\\WpfApp2.csproj|c:\\users\\notfu\\source\\repos\\wpfapp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F0F665-A417-49D1-AC0D-BB671B81A02B}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\notfu\\source\\repos\\WpfApp2\\WpfApp2\\Class1.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Class1.cs",
+              "ToolTip": "C:\\Users\\notfu\\source\\repos\\WpfApp2\\WpfApp2\\Class1.cs",
+              "RelativeToolTip": "WpfApp2\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T23:20:15.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\notfu\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\notfu\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-25T23:03:28.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\notfu\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\notfu\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T23:03:28.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

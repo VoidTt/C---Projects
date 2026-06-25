@@ -1,0 +1,24 @@
+﻿<Page x:Class="WpfApp2.SettingsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <StackPanel Margin="20">
+
+        <TextBlock Text="Редактирование профиля"
+                   FontSize="22"/>
+
+        <TextBox Text="Иванов Иван Иванович"
+                 Margin="0,10"/>
+
+        <TextBox Text="+7 900 123-45-67"
+                 Margin="0,10"/>
+
+        <TextBox Text="ivan@mail.ru"
+                 Margin="0,10"/>
+
+        <Button Content="Сохранить"
+                Width="120"/>
+
+    </StackPanel>
+
+</Page>

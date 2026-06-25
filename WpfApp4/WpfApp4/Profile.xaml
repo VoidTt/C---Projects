@@ -1,0 +1,43 @@
+﻿<Page x:Class="WpfApp2.ProfilePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <DockPanel>
+
+        <StackPanel Width="170"
+                    Background="LightGray"
+                    DockPanel.Dock="Left">
+
+            <Button Content="Профиль"
+                    Margin="5"/>
+
+            <Button Content="Настройки"
+                    Margin="5"
+                    Click="Settings_Click"/>
+
+            <Button Content="Заказы"
+                    Margin="5"
+                    Click="Orders_Click"/>
+
+        </StackPanel>
+
+        <StackPanel Margin="20">
+
+            <Image Source="avatar.jpg"
+                   Width="120"
+                   Height="120"/>
+
+            <TextBlock Text="ФИО: Иванов Иван Иванович"
+                       FontSize="18"/>
+
+            <TextBlock Text="Телефон: +7 900 123-45-67"
+                       FontSize="18"/>
+
+            <TextBlock Text="Email: ivan@mail.ru"
+                       FontSize="18"/>
+
+        </StackPanel>
+
+    </DockPanel>
+
+</Page>
